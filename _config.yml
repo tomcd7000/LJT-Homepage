@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"  
-  bio              : "First-year PhD candidate at HKUST NLP Group, researching natural language processing and machine learning."
-  location         : "Hong Kong"
+  bio              : "First-year PhD candidate at the HKUST NLP Group, researching natural language processing and machine learning."
+  location         : 
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
   email            : "jliugi@connect.ust.hk" 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,14 +57,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram         : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Preprints'    
   conferences:
     title: 'Conference Papers'
 
